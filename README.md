@@ -1,3 +1,3 @@
 # Incident Manager Regressor
 
-L'analyse et la descritpion du problème est dans le PDF 
+L'analyse et la descritpion du problème sont dans le PDF 
